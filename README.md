@@ -15,4 +15,8 @@ BASIC LAYOUTS:
 ![](images/time1.png)
 ![](images/pred.png)
 
+Source for Dataset: http://www.st.ewi.tudelft.nl/akshay/dred/
+
+Dataset name: Appliance.csv
+![](appliance.png)
 
